@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">北商課表</string>
+    <string name="action_search">搜尋</string>
+    <string name="loading">載入中......</string>
+    <string name="request_error">請求錯誤</string>
+    <string name="request_fail">無法獲得資料，請檢察網路連線後，重試一次</string>
+    <string name="error">錯誤</string>
+    <string name="request_finish">完成！</string>
+    <string name="minus">-</string>
+    <string name="empty_class_schedule">無資料，點右上角搜尋一下吧！</string>
+    <string name="action_today">今日課表</string>
+</resources>
